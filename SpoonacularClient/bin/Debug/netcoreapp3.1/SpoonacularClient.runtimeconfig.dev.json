@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\pandelus\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\pandelus\\.nuget\\packages"
+    ]
+  }
+}

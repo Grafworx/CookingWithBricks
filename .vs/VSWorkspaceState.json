@@ -1,6 +1,16 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\spoonacular-csharp-client\\src",
+    "\\spoonacular-csharp-client\\src\\main",
+    "\\spoonacular-csharp-client\\src\\main\\CsharpDotNet2",
+    "\\spoonacular-csharp-client\\src\\main\\CsharpDotNet2\\Org",
+    "\\spoonacular-csharp-client\\src\\main\\CsharpDotNet2\\Org\\OpenAPITools",
+    "\\spoonacular-csharp-client\\src\\main\\CsharpDotNet2\\Org\\OpenAPITools\\Client",
+    "\\spoonacular-csharp-client\\src\\main\\CsharpDotNet2\\spoonacular",
+    "\\spoonacular-csharp-client\\src\\main\\CsharpDotNet2\\spoonacular\\Api",
+    "\\spoonacular-csharp-client\\src\\main\\CsharpDotNet2\\spoonacular\\Model"
   ],
+  "SelectedNode": "\\SpoonacularClient\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

@@ -1,0 +1,14 @@
+C:\Projects\Grafworx\CookingWithBricks\SpoonacularClient\obj\Debug\netcoreapp3.1\SpoonacularClient.csprojAssemblyReference.cache
+C:\Projects\Grafworx\CookingWithBricks\SpoonacularClient\obj\Debug\netcoreapp3.1\SpoonacularClient.AssemblyInfoInputs.cache
+C:\Projects\Grafworx\CookingWithBricks\SpoonacularClient\obj\Debug\netcoreapp3.1\SpoonacularClient.AssemblyInfo.cs
+C:\Projects\Grafworx\CookingWithBricks\SpoonacularClient\bin\Debug\netcoreapp3.1\SpoonacularClient.exe
+C:\Projects\Grafworx\CookingWithBricks\SpoonacularClient\bin\Debug\netcoreapp3.1\SpoonacularClient.deps.json
+C:\Projects\Grafworx\CookingWithBricks\SpoonacularClient\bin\Debug\netcoreapp3.1\SpoonacularClient.runtimeconfig.json
+C:\Projects\Grafworx\CookingWithBricks\SpoonacularClient\bin\Debug\netcoreapp3.1\SpoonacularClient.runtimeconfig.dev.json
+C:\Projects\Grafworx\CookingWithBricks\SpoonacularClient\bin\Debug\netcoreapp3.1\SpoonacularClient.dll
+C:\Projects\Grafworx\CookingWithBricks\SpoonacularClient\bin\Debug\netcoreapp3.1\SpoonacularClient.pdb
+C:\Projects\Grafworx\CookingWithBricks\SpoonacularClient\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Projects\Grafworx\CookingWithBricks\SpoonacularClient\bin\Debug\netcoreapp3.1\RestSharp.Net2.dll
+C:\Projects\Grafworx\CookingWithBricks\SpoonacularClient\obj\Debug\netcoreapp3.1\SpoonacularClient.csproj.CopyComplete
+C:\Projects\Grafworx\CookingWithBricks\SpoonacularClient\obj\Debug\netcoreapp3.1\SpoonacularClient.dll
+C:\Projects\Grafworx\CookingWithBricks\SpoonacularClient\obj\Debug\netcoreapp3.1\SpoonacularClient.pdb
