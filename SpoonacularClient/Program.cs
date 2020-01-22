@@ -1,4 +1,6 @@
-﻿using com.spoonacular;
+﻿using Bricks.Data;
+using Bricks.Model;
+using com.spoonacular;
 using Newtonsoft.Json;
 using Org.OpenAPITools.Client;
 using RestSharp;
@@ -13,7 +15,14 @@ namespace SpoonacularClient
         {
             Console.WriteLine("Hello World!");
 
-            ApiClient apiClient = new ApiClient();
+            BricksContext context = new BricksContext();
+            context.Database.EnsureCreated();
+
+            User user = new User { Name = "Alastair P", Username = "pandelus" };
+            context.Users.Add(user);
+            context.SaveChanges();
+
+            /*ApiClient apiClient = new ApiClient();
             DefaultApi api = new DefaultApi(apiClient);
 
             string spoonacular = Environment.GetEnvironmentVariable("spoonacular");
@@ -22,7 +31,7 @@ namespace SpoonacularClient
 
             var json = new RestClient("https://api.spoonacular.com").Execute(request).Content;
 
-            Recipe recipe = JsonConvert.DeserializeObject<Recipe>(json);
+            Recipe recipe = JsonConvert.DeserializeObject<Recipe>(json);*/
         }
     }
 }
